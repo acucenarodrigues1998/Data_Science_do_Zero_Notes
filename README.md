@@ -1,10 +1,10 @@
 # Data Science do Zero Notas
 
-Este repositório contém anotações feitas a partir do estudo do livro "Data Science do Zero: Primeiras Regras com Python" do Joel Grus.
+Este repositório contém anotações e códigos feitos a partir do estudo do livro "Data Science do Zero: Primeiras Regras com Python" do Joel Grus.
 
 Cada notebook é correspondente aos códigos de um capítulo do livro.
 
-Os capítulo são:
+Os capítulos presentes no repositório são:
 
 1. [Introdução](https://github.com/acucenarodrigues1998/Data_Science_do_Zero_Notes/blob/master/Cap._01_-_Introdu%C3%A7%C3%A3o.ipynb)
 2. [Curso Relâmpago de Python](https://github.com/acucenarodrigues1998/Data_Science_do_Zero_Notes/blob/master/Cap._02_-_Curso_Relampago_de_Python.ipynb)
