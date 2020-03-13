@@ -32,3 +32,5 @@ Os capítulos presentes no repositório são:
 24. [MapReduce]()
 
 O livro pode ser encontrado para compra [aqui](https://www.amazon.com.br/Data-Science-zero-Joel-Grus/dp/857608998X/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=182EXZ1EDW0FL&keywords=data+science+python&qid=1583857371&sprefix=data+s%2Caps%2C251&sr=8-2).
+
+Os arquivos da pasta Códigos foram retirados do github oficial do autor do livro, apenas para fins de importação e utilização das funções. 
