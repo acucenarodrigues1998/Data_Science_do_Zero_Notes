@@ -21,7 +21,7 @@ Os capítulos presentes no repositório são:
 13. [Naive Bayes](https://github.com/acucenarodrigues1998/Data_Science_do_Zero_Notes/blob/master/Cap._13_-_Naive_Bayes.ipynb)
 14. [Regressão Linear Simples](https://github.com/acucenarodrigues1998/Data_Science_do_Zero_Notes/blob/master/Cap._14_-_Regressao_Linear_Simples.ipynb)
 15. [Regressão Múltipla](https://github.com/acucenarodrigues1998/Data_Science_do_Zero_Notes/blob/master/Cap._15_-_Regressao_Multipla.ipynb)
-16. [Regressão Logística]()
+16. [Regressão Logística](https://github.com/acucenarodrigues1998/Data_Science_do_Zero_Notes/blob/master/Cap._16_-_Regressao_Logistica.ipynb)
 17. [Árvores de Decisão]()
 18. [Redes Neurais]()
 19. [Agrupamento]()
