@@ -1,10 +1,10 @@
 from collections import Counter
 from functools import partial
-from linear_algebra import dot, vector_add
-from stats import median, standard_deviation
-from probability import normal_cdf
-from gradient_descent import minimize_stochastic
-from simple_linear_regression import total_sum_of_squares
+from Codigos.linear_algebra import dot, vector_add
+from Codigos.stats import median, standard_deviation
+from Codigos.probability import normal_cdf
+from Codigos.gradient_descent import minimize_stochastic
+from Codigos.simple_linear_regression import total_sum_of_squares
 import math, random
 
 def predict(x_i, beta):

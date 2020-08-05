@@ -22,7 +22,7 @@ Os capítulos presentes no repositório são:
 14. [Regressão Linear Simples](https://github.com/acucenarodrigues1998/Data_Science_do_Zero_Notes/blob/master/Cap._14_-_Regressao_Linear_Simples.ipynb)
 15. [Regressão Múltipla](https://github.com/acucenarodrigues1998/Data_Science_do_Zero_Notes/blob/master/Cap._15_-_Regressao_Multipla.ipynb)
 16. [Regressão Logística](https://github.com/acucenarodrigues1998/Data_Science_do_Zero_Notes/blob/master/Cap._16_-_Regressao_Logistica.ipynb)
-17. [Árvores de Decisão]()
+17. [Árvores de Decisão](https://github.com/acucenarodrigues1998/Data_Science_do_Zero_Notes/blob/master/Cap._17_-_Arvores_de_Decisao.ipynb)
 18. [Redes Neurais]()
 19. [Agrupamento]()
 20. [Processamento de Linguagem Natural]()
